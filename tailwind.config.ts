@@ -61,7 +61,15 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				blood: {
+					red: 'hsl(var(--blood-red))',
+					'red-dark': 'hsl(var(--blood-red-dark))',
+					'red-light': 'hsl(var(--blood-red-light))'
 				}
+			},
+			backgroundImage: {
+				'gradient-blood': 'var(--gradient-blood)'
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
