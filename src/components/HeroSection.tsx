@@ -21,7 +21,7 @@ const HeroSection = () => {
             <Button 
               variant="outline"
               size="lg"
-              className="border-2 border-white text-white font-bold hover:bg-white hover:text-primary transition-colors px-8 py-3 rounded-full"
+              className="bg-white text-primary font-bold hover:bg-gray-100 transition-colors px-8 py-3 rounded-full"
             >
               Learn More
             </Button>
